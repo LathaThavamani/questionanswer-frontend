@@ -1,0 +1,43 @@
+.QA-content {
+    margin-left: 20vw;
+}
+
+textarea,
+input {
+    width: 60vw;
+    display: block;
+}
+
+textarea,
+input,
+button {
+    border: 2px solid grey;
+    border-radius: 10px;
+}
+
+button {
+    height: 50px;
+    width: 100px;
+    margin-top: 15px;
+    margin-right: 10px;
+    color: black;
+    background-color: #9E9E9E;
+    font-size: 15px;
+}
+
+.requiredField {
+    color: red;
+    margin: 2px;
+}
+
+.requiredText {
+    border: 2px solid red;
+    border-radius: 10px;
+}
+
+.errorMessage {
+    color: red;
+    display: block;
+    margin: 5px;
+    font-size: 12px;
+}
