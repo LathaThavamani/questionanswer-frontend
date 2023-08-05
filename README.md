@@ -19,9 +19,11 @@ Access my site using the following links:
 
 - ***Get Answer*** : Allows user to get answer for the question related to the entered context.
   
-- ***Validation*** : Context and Question fields are required
+- ***Validation*** : Context and Question fields are required.
 
-- ***Clear All*** : Allows user to all the fields to use this app with new context and question
+- ***Clear All*** : Allows user to all the fields to use this app with new context and question.
+
+Please refer the attached screenshots at the end for the better unserstanding.
 
 ### **Tech Library Used**
 ---
@@ -55,3 +57,18 @@ Question Answering tool version 2 will be available soon with extended features.
 ---
 I will take all the responsiblity for every single line of code.  
 The design inspired from dida Question Answering demo.
+
+## **Home Page**
+
+![image](https://github.com/LathaThavamani/questionanswer-frontend/assets/120006046/c6b42ad5-0ec4-4187-9ece-8e31187b4f0f)
+
+## **Validation**
+
+![image](https://github.com/LathaThavamani/questionanswer-frontend/assets/120006046/82de5713-e972-4cab-9876-eea786597210)
+
+## **Example**
+
+![image](https://github.com/LathaThavamani/questionanswer-frontend/assets/120006046/9c0dabf0-6198-42a3-85a5-a7ae294fb8f8)
+
+
+
