@@ -70,7 +70,7 @@ const QuestionAnswer = () => {
         <button onClick={e => getAnswer()}>Get Answer</button>
         <button onClick={e => clearAll()}>Clear All</button>
         <h4>Answer:</h4>
-        <textarea rows={3} value={answer} disabled />
+        <textarea rows={3} value={answer} readonly />
     </div>
     );
 };
