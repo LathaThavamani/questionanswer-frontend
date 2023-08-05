@@ -1,70 +1,57 @@
-# Getting Started with Create React App
+## **Question Answering Tool**
+---
+This is AI based Question Answering tool can be used in various use cases and industries.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This applicationn is built using the React framework.
 
-## Available Scripts
+### **Demo**
+---
+Access my site using the following links:
 
-In the project directory, you can run:
+[https://questionanswer-frontend.vercel.app/](https://questionanswer-frontend.vercel.app/)
 
-### `npm start`
+[https://questionanswer-frontend-lathathavamani.vercel.app/](https://questionanswer-frontend-lathathavamani.vercel.app/)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+[https://questionanswer-frontend-lathathavamani.vercel.app/](https://questionanswer-frontend-lathathavamani.vercel.app/)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### **Feature**
+---
 
-### `npm test`
+- ***Get Answer*** : Allows user to get answer for the question related to the entered context.
+  
+- ***Validation*** : Context and Question fields are required
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- ***Clear All*** : Allows user to all the fields to use this app with new context and question
 
-### `npm run build`
+### **Tech Library Used**
+---
+- HTML
+- CSS
+- Javascript & ES6
+- React
+- Hooks
+- Hugging Face model (https://huggingface.co/deepset/roberta-base-squad2)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### **Installation and Setup instruction**
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+-Clone or download repository and you need node and npm installed globally on your machine.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+-Run ``npm install`` command in your current project terminal to install node modules.  
 
-### `npm run eject`
+-Run ``npm run start`` command to open the site in the development mode.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+-Open http://localhost:3000 to view it in your browser.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### **Status**
+---
+Question Answering tool version 2 will be available soon with extended features.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### **Contributors**
+---
+[Latha Thavamani](https://github.com/LathaThavamani)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### **Acknowledgments**
+---
+I will take all the responsiblity for every single line of code.  
+The design inspired from dida Question Answering demo.
